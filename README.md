@@ -5,7 +5,7 @@ BrainMemo(https://github.com/EyesOnly5x5/BrainMemo)
 
 Memory Finde 2 gleiche und die Niete. Niete zum ersten mal gefunden +2 Punkte, jedes weitere mal 1 Punkt abzug. Jedesmal wenn nach einem Treffer ein erneuter Treffer folgt gibt es einen Punkt mehr. Kein Treffer gibt 1 Punkt abzug.
 
-BrainMerlinhttps://github.com/EyesOnly5x5/BrainMerlin
+BrainMerlin(https://github.com/EyesOnly5x5/BrainMerlin)
 
 Merlin, Gandalf, Harry, Houdini Komplette fläche muss grün sein. Durch anklicken wird derienige und die in der Umgebung, nach einem bestimmten muster geändert.
 
